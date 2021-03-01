@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sahilsood)
 
-
+I am an Android Developer for Truist Financial. Previously, Graduate Student in Computer Science at University of North Carolina at Charlotte.
 <!--
 **sahilsood/sahilsood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

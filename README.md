@@ -17,6 +17,7 @@
 <li>📙 Check out my <a href="https://sahilsood.com/SahilSoodResume.pdf">resume</a></li>
 </ul>
 </p>
+<br>
 <h2>👨‍💻 Tech stack...</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="react" width="25" height="25" />

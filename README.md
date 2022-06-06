@@ -17,6 +17,22 @@
 <li>📙 Check out my <a href="https://sahilsood.com/SahilSoodResume.pdf">resume</a></li>
 </ul>
 </p>
+<h2>👨‍💻 Tech stack...</h2>
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+</p>
 <img src="https://github-readme-stats.vercel.app/api?username=sahilsood&show_icons=true&count_private=true" alt="sahilsood" />
 
 ![](https://komarev.com/ghpvc/?username=sahilsood)

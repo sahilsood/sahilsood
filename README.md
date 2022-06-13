@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-9cf?style=for-the-badge&logo=instagram)](https://www.instagram.com/sahilsood28/)
 
 <img align="right" src="https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif" />
+
 <h2>⚡️ Quick facts...</h2>
 <ul>
 <li>📱 I’m currently working on <strong><a href="https://www.android.com/">Android</a></strong></li>
@@ -34,6 +35,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsood&layout=compact&theme=buefy" />
 <img src="https://github-readme-stats.vercel.app/api?username=sahilsood&show_icons=true&count_private=true" alt="sahilsood" />
 
 ![](https://komarev.com/ghpvc/?username=sahilsood)

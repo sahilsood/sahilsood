@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm <a href="https://sahilsood.com/">Sahil</a></h2>
+<h2>Hi there, I'm <a href="https://sahilsood.com/">Sahil 👋</a></h2>
 <p>I'm currently an Android Developer at <strong><a href="https://www.truist.com/">Truist Financial</a></strong> based in Charlotte, NC. Previously, Graduate Student in Computer Science at <strong><a href="https://www.charlotte.edu/">University of North Carolina at Charlotte</a></strong>. I am working on some side projects and currently learning <strong><a href="https://developer.android.com/jetpack/compose ">Jetpack Compose</a></strong></p>
 
 [![Portfolio](https://img.shields.io/badge/%20-sahilsood.com-9cf?style=for-the-badge)](https://sahilsood.com/)

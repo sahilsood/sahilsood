@@ -14,7 +14,6 @@
 <li>🧐 Learning about <strong><a href="https://developer.android.com/jetpack/compose ">Jetpack Compose</a></strong></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/sahilsood/">Github</a></li>
 <li>📝 I regulary keep in touch with <a href="https://www.reddit.com/r/androiddev/">r/androiddev</a></li>
-<li>📧 Email me at <a href="mailto:sahil28sood@gmail.com">sahil28sood@gmail.com</a></li>
 <li>📙 Check out my <a href="https://sahilsood.com/SahilSoodResume.pdf">resume</a></li>
 </ul>
 </p>
